@@ -2,7 +2,7 @@
 This makes you launch dos and make dos launchers more faster. Makes DOS library for you.
 
 How to Setup Manuel:
-You need 'DOSGames' folder in Drive C:/
+You need 'DOSGames' folder in Drive C:/ (Or you can download my 'DOSGames' folder for first try)
 Later, you need download DOS games in any Abandonware sites.
 When you download your favorite game, you need make unzip folder what you download.
 Enter the XDosLauncher.exe and press Launcher Maker
